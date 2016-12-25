@@ -1,5 +1,5 @@
 {
-    programming: [
+    "programming": [
         "*.stackoverflow.com",
         "*.github.com",
         "*.github.io",
@@ -8,21 +8,21 @@
         "*.mozilla.org",
         "*.codecademy.com"
     ],
-    productivity: [
+    "productivity": [
         "*.slack.com",
         "*.trello.com",
         "*.skype.com",
         "*.stackexchange.com",
         "*.wikipedia.org"
     ],
-    search: [
+    "search": [
         "www.google.com",
         "google.com",
         "*.bing.com",
         "*.yahoo.com",
         "*.duckduckgo.com"
     ],
-    social: [
+    "social": [
         "*.twitter.com",
         "*.facebook.com",
         "*.instagram.com",
@@ -34,7 +34,7 @@
         "*.steamcommunity.com",
         "*.quora.com"
     ],
-    gaming: [
+    "gaming": [
         "*.steampowered.com",
         "*.discord.com",
         "*.curseforge.com",
@@ -47,20 +47,20 @@
         "*.n4g.com",
         "*.neoseeker.com"
     ],
-    entertainment: [
+    "entertainment": [
         "*.netflix.com",
         "*.youtube.com",
         "*.hulu.com",
         "*.vimeo.com"
     ],
-    commerce: [
+    "commerce": [
         "*.paypal.com",
         "*.upromise.com",
         "*.chase.com",
         "*.visa.com",
         "*.amazon.com"
     ],
-    adult: [
+    "adult": [
         "*.pornhub.com",
         "*.xhamster.com",
         "*.xvideos.com"

@@ -6,7 +6,10 @@
         "*.jsfiddle.net",
         "*.codepen.io",
         "*.mozilla.org",
-        "*.codecademy.com"
+        "*.codecademy.com",
+        "*.npmjs.com",
+        "developers.google.com",
+        "*.shodan.io
     ],
     "productivity": [
         "*.slack.com",
@@ -28,11 +31,16 @@
         "*.instagram.com",
         "*.snapchat.com",
         "*.reddit.com",
+        "*.imgur.com",
         "*.instagram.com",
         "*.skype.com",
         "*.youtube.com",
         "*.steamcommunity.com",
-        "*.quora.com"
+        "*.quora.com",
+        "plus.google.com",
+        "*.pinterest.com",
+        "*.linkedin.com",
+        "*.tumblr.com"
     ],
     "gaming": [
         "*.steampowered.com",

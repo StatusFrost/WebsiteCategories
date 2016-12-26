@@ -68,6 +68,13 @@
         "*.visa.com",
         "*.amazon.com"
     ],
+    "news": [
+        "*.nytimes.com",
+        "*.fox.com",
+        "*.medium.com",
+        "news.google.com",
+        "*.huffingtonpost.com"
+    ],
     "adult": [
         "*.pornhub.com",
         "*.xhamster.com",

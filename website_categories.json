@@ -73,7 +73,11 @@
         "*.fox.com",
         "*.medium.com",
         "news.google.com",
-        "*.huffingtonpost.com"
+        "*.huffingtonpost.com",
+        "*.nbcnews.com",
+        "*.bbc.com",
+        "abcnews.go.com",
+        "*.msn.com"
     ],
     "adult": [
         "*.pornhub.com",

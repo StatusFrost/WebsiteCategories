@@ -17,7 +17,13 @@
         "*.trello.com",
         "*.skype.com",
         "*.stackexchange.com",
-        "*.wikipedia.org"
+        "*.wikipedia.org",
+        "inbox.google.com",
+        "mail.google.com",
+        "drive.google.com",
+        "docs.google.com",
+        "sheets.google.com",
+        "mail.yahoo.com"
     ],
     "search": [
         "www.google.com",

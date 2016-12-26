@@ -9,7 +9,8 @@
         "*.codecademy.com",
         "*.npmjs.com",
         "developers.google.com",
-        "*.shodan.io"
+        "*.shodan.io",
+        "*.dribbble.com"
     ],
     "productivity": [
         "*.slack.com",
@@ -40,7 +41,8 @@
         "plus.google.com",
         "*.pinterest.com",
         "*.linkedin.com",
-        "*.tumblr.com"
+        "*.tumblr.com",
+        "*.producthunt.com"
     ],
     "gaming": [
         "*.steampowered.com",
